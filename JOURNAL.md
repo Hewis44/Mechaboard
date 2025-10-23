@@ -54,7 +54,7 @@ So today I finally sat down and worked on the schematic for my keyboard.
 
   
 
-## 10/23/2025 - Made some silkscreen and tried making a case on easyeda pro  
+## 10/23/2025 8 AM - Made some silkscreen and tried making a case on easyeda pro  
 
 So today I designed the case for my keyboard in EasyEDA Pro, and honestly it was so fun seeing it come together. I made sure the mounting holes and the PCB edges aligned properly, then exported the whole thing and imported it into Fusion 360 to start working on the 3D model. 
 
@@ -75,4 +75,34 @@ It looked so clean seeing the PCB sit inside the case, and I could finally imagi
 
 
   
+
+## 10/23/2025 11 PM - changed material and inserted keycaps  
+
+So today I added the keycaps and the knob for the potentiometer to my keyboard model in Fusion, and now it actually looks like a real keyboard. Placing each keycap felt so satisfying because the layout finally started to make sense visually, and I could imagine how it would feel to type on it. The knob for the potentiometer gave it that small custom touch I wanted, something to make it stand out a bit. I spent some time adjusting the heights and alignments so that everything sits perfectly on the case and the switches don’t clip through. Seeing the model with all the keys and the knob in place made it feel almost ready for production, 
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4e83148f9a2df3d99f7cf7858527629ecd55145d/image.png)
+
+
+
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c22b6f0b38edc72fd524c1929303709dd08f3015/image.png)
+
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--34db2530529cab5a4a9bee77f8fa0c4349cce02b/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e34f4e67bb8ee751a0705a1fd6e03b82298b9515/image.png)
+
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzNywicHVyIjoiYmxvYl9pZCJ9fQ==--7c21c362a7b96b336ee187553f33b15724dfcf0f/image.png)
+
+
+
+
+
+like I could 3D print the case tomorrow and start assembling it for real. On top of that, the case design itself is completely done, the key placement is finalized, and I even completed the renders to see how it looks in different angles and lighting. I updated the repository with the latest BOM file and also refreshed the README so everything is now in sync with the current state of the project. It’s such a cool feeling watching it go from just circuits on a PCB to something that actually looks and feels like a complete, almost ready-to-build keyboard.  
 
