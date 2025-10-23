@@ -29,13 +29,13 @@ Today I kinda went down a rabbit hole about how mechanical keyboards actually wo
 
 ## 10/21/2025 - Designed the schematic and routed the pcb  
 
-So today I finally sat down and worked on the schematic for my keyboard.
+So today I finally sat down and worked on the schematic for my keyboard. I actually switched back to using the Raspberry Pi Pico instead of the Pro Micro because there are just so many proper docs and examples for the Pico online, and it felt much easier to work with.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDEwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--33caf6eddda08785cb8d70c3adb3df277c1adb22/image.png)
 
 
 
- I opened up EasyEDA and started connecting all the rows and columns for the matrix, double-checking the  pinout again and again just to be sure. It took a while to get everything right, but once it started coming together, it felt really nice. After finishing the schematic, I made the base PCB and began routing all the traces. Some parts got messy and I had to redo them a couple of times, but once the layout looked neat, it was honestly super satisfying to see. Watching the board slowly take shape on screen gave me that small “I actually made this” kind of feeling. Still a lot left to do, but today felt like a proper step forward.
+ I opened up EasyEDA and started connecting all the rows and columns for the matrix, double-checking the Pico pinout again and again just to be sure. It took a while to get everything right, but once it started coming together, it felt really nice. After finishing the schematic, I made the base PCB and began routing all the traces. Some parts got messy and I had to redo them a couple of times, but once the layout looked neat, it was honestly super satisfying to see. Watching the board slowly take shape on screen gave me that small “I actually made this” kind of feeling. Still a lot left to do, but today felt like a proper step forward.
 
 
 
@@ -54,29 +54,7 @@ So today I finally sat down and worked on the schematic for my keyboard.
 
   
 
-## 10/23/2025 8:27 AM - Made some silkscreen and tried making a case on easyeda pro  
-
-So today I designed the case for my keyboard in EasyEDA Pro, and honestly it was so fun seeing it come together. I made sure the mounting holes and the PCB edges aligned properly, then exported the whole thing and imported it into Fusion 360 to start working on the 3D model. 
-
-
-
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--453085de81f700aa159551844d9ebec73f3ec81f/image.png)
-
-
-
-
-It looked so clean seeing the PCB sit inside the case, and I could finally imagine how the full keyboard will look once assembled. I also added a small touch on the PCB by putting a silkscreen of the Lockheed Martin logo, just because it looked super cool and gave the board a more professional vibe. I spent some time adjusting the dimensions so that the case feels compact but still gives enough space for all the components to fit nicely. The plan now is to start assembling everything soon once I’m happy with the fit. Seeing the design shift from just circuits to an actual body made it feel so real today.
-
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--7ef6b3d337f55cdd426dcc4aa33a119e0037c100/image.png)
-
-
-
-
-
-
-  
-
-## 10/23/2025 8:27 AM - Made some silkscreen and tried making a case on easyeda pro  
+## 10/23/2025 - Made some silkscreen and tried making a case on easyeda pro  
 
 So today I designed the case for my keyboard in EasyEDA Pro, and honestly it was so fun seeing it come together. I made sure the mounting holes and the PCB edges aligned properly, then exported the whole thing and imported it into Fusion 360 to start working on the 3D model. 
 
