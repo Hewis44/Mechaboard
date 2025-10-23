@@ -29,13 +29,13 @@ Today I kinda went down a rabbit hole about how mechanical keyboards actually wo
 
 ## 10/21/2025 - Designed the schematic and routed the pcb  
 
-So today I finally sat down and worked on the schematic for my keyboard. I actually switched back to using the Raspberry Pi Pico instead of the Pro Micro because there are just so many proper docs and examples for the Pico online, and it felt much easier to work with.
+So today I finally sat down and worked on the schematic for my keyboard.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDEwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--33caf6eddda08785cb8d70c3adb3df277c1adb22/image.png)
 
 
 
- I opened up EasyEDA and started connecting all the rows and columns for the matrix, double-checking the Pico pinout again and again just to be sure. It took a while to get everything right, but once it started coming together, it felt really nice. After finishing the schematic, I made the base PCB and began routing all the traces. Some parts got messy and I had to redo them a couple of times, but once the layout looked neat, it was honestly super satisfying to see. Watching the board slowly take shape on screen gave me that small “I actually made this” kind of feeling. Still a lot left to do, but today felt like a proper step forward.
+ I opened up EasyEDA and started connecting all the rows and columns for the matrix, double-checking the  pinout again and again just to be sure. It took a while to get everything right, but once it started coming together, it felt really nice. After finishing the schematic, I made the base PCB and began routing all the traces. Some parts got messy and I had to redo them a couple of times, but once the layout looked neat, it was honestly super satisfying to see. Watching the board slowly take shape on screen gave me that small “I actually made this” kind of feeling. Still a lot left to do, but today felt like a proper step forward.
 
 
 
