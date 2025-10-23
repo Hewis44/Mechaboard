@@ -1,12 +1,12 @@
-Component,Source & Link,Qty,Total Cost (INR),Notes
-Blue Mechanical Switches (OUTEMU Blue, 32-pack),Amazon.in – Pack of 32 at ~ ₹2,123.00,2 packs (≈64 switches),4246,Slight over-coverage for ~48 keys
-PBT Dye-sublimated Keycaps (Black),NeoMacro.in (or equivalent),1 set,2200,Estimate based on earlier pricing
-Hot-swap Sockets (Kailh MX Hotswap Socket v1),NeoMacro.in – 10 sockets for ₹110.00,6 packs (≈60 sockets),660,Plenty for ~48 keys + buffer
-WS2812B RGB LEDs (individual),Amazon.in – pack used to estimate ~ ₹10 each,48,480,One LED per key
-SMD Diodes (1N4148),Amazon.in / designated site,50,95,Bulk kit for the diodes
-Rotary Encoder (EC11 type),Amazon.in / NeoMacro.in – estimate,1,170,
-Encoder Knob,NeoMacro.in or Amazon.in – estimate,1,85,
-Arduino Pro Micro (ATmega32U4 board),Robu.in or Amazon.in – estimate,1,649,Using latest listing from Robu/others
-Custom PCB (5 pcs, Black, 1.6 mm, HASL),JLCPCB via EasyEDA – same as before,5 pcs,4500,Rough cost estimate
-Shipping (PCBs),JLCPCB,1,425,
-Total Approximate Cost,,,12310,
+Component,Source,Quantity,Total Cost (INR)
+Blue Mechanical Switches (OUTEMU Blue, 32-pack),Amazon.in,2 packs (≈64 switches),4246
+PBT Dye-sublimated Keycaps (Black),NeoMacro.in,1 set,2200
+Hot-swap Sockets (Kailh MX Hotswap Socket v1),NeoMacro.in,6 packs (≈60 sockets),660
+WS2812B RGB LEDs (individual),Amazon.in,48,480
+SMD Diodes (1N4148),Amazon.in,48,90
+Rotary Encoder (EC11 type),Amazon.in / NeoMacro.in,1,170
+Encoder Knob,NeoMacro.in / Amazon.in,1,85
+Arduino Pro Micro (ATmega32U4 board),Robu.in / Amazon.in,1,649
+Custom PCB (5 pcs, Black, 1.6 mm, HASL),JLCPCB,5 pcs,4500
+Shipping (PCBs),JLCPCB,1,425
+Total Approximate Cost,, ,12315
