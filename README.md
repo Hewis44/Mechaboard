@@ -32,5 +32,18 @@ For assembling the keyboard, the workflow starts with ordering the PCB and all c
 
 ## BOM
 
+| Component                                       | Source                      | Quantity               | Total Cost (INR) | Notes                                 |
+| ----------------------------------------------- | --------------------------- | ---------------------- | ---------------- | ------------------------------------- |
+| Blue Mechanical Switches (OUTEMU Blue, 32-pack) | Amazon.in                   | 2 packs (≈64 switches) | 4246             |                           48 keys     |
+| PBT Dye-sublimated Keycaps (Black)              | NeoMacro.in                 | 1 set                  | 2200             | Estimate based on earlier pricing     |
+| Hot-swap Sockets (Kailh MX Hotswap Socket v1)   | NeoMacro.in                 | 6 packs (≈60 sockets)  | 660              |             48 keys + buffer          |
+| WS2812B RGB LEDs (individual)                   | Amazon.in                   | 48                     | 480              | One LED per key                       |
+| SMD Diodes (1N4148)                             | Amazon.in / designated site | 48                     | 90               | One SMD diode per key                 |
+| Rotary Encoder (EC11 type)                      | Amazon.in / NeoMacro.in     | 1                      | 170              |                                       |
+| Encoder Knob                                    | NeoMacro.in / Amazon.in     | 1                      | 85               |                                       |
+| Arduino Pro Micro (ATmega32U4 board)            | Robu.in / Amazon.in         | 1                      | 649              | Using latest listing from Robu/others |
+| Custom PCB (5 pcs, Black, 1.6 mm, HASL)         | JLCPCB                      | 5 pcs                  | 4500             | Rough cost estimate                   |
+| Shipping (PCBs)                                 | JLCPCB                      | 1                      | 425              |                                       |
+| **Total Approximate Cost**                      |                             |                        | **12315**        |                                       |
 
 
