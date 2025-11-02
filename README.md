@@ -34,7 +34,7 @@ For assembling the keyboard, the workflow starts with ordering the PCB and all c
 
 | Component                                       | Source                      | Quantity               | Total Cost (INR) | Notes                                 |
 | ----------------------------------------------- | --------------------------- | ---------------------- | ---------------- | ------------------------------------- |
-| Blue Mechanical Switches (OUTEMU Blue, 32-pack) | Amazon.in                   | 2 packs (≈64 switches) | 4246             |                           48 keys     |
+| Blue Mechanical Switches (OUTEMU Blue, 32-pack) | Amazon.in                   | 2 packs (≈64 switches) | 1200             |                           48 keys     |
 | PBT Dye-sublimated Keycaps (Black)              | NeoMacro.in                 | 1 set                  | 2200             | Estimate based on earlier pricing     |
 | Hot-swap Sockets (Kailh MX Hotswap Socket v1)   | NeoMacro.in                 | 6 packs (≈60 sockets)  | 660              |             48 keys + buffer          |
 | WS2812B RGB LEDs (individual)                   | Amazon.in                   | 48                     | 480              | One LED per key                       |
